@@ -1,0 +1,5 @@
+#
+UUID=26620198-186a-404b-b9a1-12d957d7c826     /           xfs    defaults,noatime  1   1
+/dev/vg_app_data/lv_tabelo_data /tabelo1 ext4 defaults 0 0
+/dev/mapper/vg_app_data-lv_sapdata /oracle_data ext4 defaults 0 0
+/dev/mapper/vg_app_data-informatica_pods /informatica_fs ext4 defaults 0 0
